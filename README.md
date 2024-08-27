@@ -1,5 +1,8 @@
 ## Decoding YouTube Comments: Extracting Insights Through Topic Modeling and Sentiment Analysis
 
+___The complete notebook featuring the entire process outlined below can be seen [here](https://nbviewer.org/github/XiongCynthia/Decoding-YouTube-Comments/blob/main/DecodingYouTubeComments.ipynb).___
+
+
 ### Abstract
 
 This project delves into the intricate world of online discourse by employing Natural Language Processing (NLP) techniques to analyze YouTube comments. The study combines the power of topic modeling and sentiment analysis to unravel patterns, trends, and sentiments embedded within YouTube data to uncover potential methods of dissecting comprehensive insights using comments. Our methodology involves preprocessing text, extracting topics, and sentiment analysis.
